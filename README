@@ -1,0 +1,4 @@
+KnightsTour.cpp solves the Knight's Tour problem for rectangular boards.
+
+To compile: g++ KnightsTour.cpp -O3 -o knight
+To run: ./knight
